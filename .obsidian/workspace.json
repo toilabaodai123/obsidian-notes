@@ -11,10 +11,14 @@
             "id": "5105d012af7ea1ba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java Note.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Java Note"
             }
           }
         ]
@@ -181,6 +185,13 @@
   },
   "active": "5105d012af7ea1ba",
   "lastOpenFiles": [
+    "Message Queue/Kafka/Kafka Notes.md",
+    "Database/Database note.md",
+    "Database/Mysql Note.md",
+    "Database/Postgresql Note.md",
+    "Database/Redis note.md",
+    "Pattern/Pattern Note.md",
+    "Work/Regza/Regza Note.md",
     "Real-time communication/socketio/socketio note.md",
     "Java/Spring/Spring Note.md",
     "Java/Java Note.md",
@@ -190,21 +201,15 @@
     "Message Queue/Message queue note.md",
     "Real-time communication",
     "Message Queue/RabbitMQ/RabbitMQ Note.md",
-    "Pattern/Pattern Note.md",
     "Message Queue/RabbitMQ",
-    "Database/Redis note.md",
     "Pattern",
     "Work/Regza",
     "Work",
     "Message Queue",
-    "Database/Postgresql Note.md",
-    "Database/Mysql Note.md",
-    "Database/Database note.md",
     "Microservice/Microservice note.md",
     "Database",
     "Auth/Auth note.md",
     "Microservice",
-    "Message Queue/Kafka/Kafka Notes.md",
     "notes/Welcome.md"
   ]
 }

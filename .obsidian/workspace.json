@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Redis note.md",
+                "file": "Pattern/Pattern Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redis note"
+              "title": "Pattern Note"
             }
           }
         ]
@@ -199,11 +199,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "d1295c9f3931f271",
+  "active": "92f6306d1cf4d61c",
   "lastOpenFiles": [
+    "Database/Redis note.md",
+    "Pattern/Pattern Note.md",
+    "Pattern",
+    "Work/Regza",
+    "Work",
     "Message Queue",
     "Database/Postgresql Note.md",
-    "Database/Redis note.md",
     "Database/Mysql Note.md",
     "Database/Database note.md",
     "Microservice/Microservice note.md",
